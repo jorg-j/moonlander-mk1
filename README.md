@@ -3,7 +3,7 @@ Mapping for Ergodox Moonlander
 
 Bin
 
-![Download](moonlander_main.bin)
+[Download](moonlander_main.bin)
 
 Layer 1
 
